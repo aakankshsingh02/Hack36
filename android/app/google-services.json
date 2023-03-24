@@ -1,41 +1,41 @@
 {
   "project_info": {
-    "project_number": "406932654139",
-    "project_id": "sih-finals",
-    "storage_bucket": "sih-finals.appspot.com"
+    "project_number": "124141530890",
+    "project_id": "hack36-268ce",
+    "storage_bucket": "hack36-268ce.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:406932654139:android:afefc29a2fb44a11c5341e",
+        "mobilesdk_app_id": "1:124141530890:android:16e756cb27e39c98c994f3",
         "android_client_info": {
-          "package_name": "com.example.sih_finals"
+          "package_name": "com.example.hack36"
         }
       },
       "oauth_client": [
         {
-          "client_id": "406932654139-6cttc9k47ctunhgbj032jegejqdf0e9i.apps.googleusercontent.com",
+          "client_id": "124141530890-hsda86uvvcdbopbmvhnrap47dicak7d8.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.sih_finals",
+            "package_name": "com.example.hack36",
             "certificate_hash": "17940f07eebee93453033b9e94f2efb94c5a293f"
           }
         },
         {
-          "client_id": "406932654139-77o5ag674vkqdbrbdmfka94f74g9pj2v.apps.googleusercontent.com",
+          "client_id": "124141530890-r41u3a7th97hacogr4f9o4t2sf0817fa.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBLkCEpZ-o6Vhj08UlRxlOT8Us9GMTskcs"
+          "current_key": "AIzaSyCnrp4G31_k8affo_jR0m-tQEQ2ux8buj8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "406932654139-77o5ag674vkqdbrbdmfka94f74g9pj2v.apps.googleusercontent.com",
+              "client_id": "124141530890-r41u3a7th97hacogr4f9o4t2sf0817fa.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

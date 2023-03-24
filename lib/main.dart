@@ -29,10 +29,9 @@
 // }
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
+import 'package:hack36/screens/homepage.dart';
+import 'package:hack36/screens/sign_in.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:sih_finals/screens/homepage.dart';
-
-import 'package:sih_finals/screens/sign_in.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
