@@ -34,9 +34,9 @@ Together, the Entech app and the Playtopia app make up the Entopia architecture,
   7) OCR
   8) Classification and Regression Algorithm
   9) Mediapipe
-  10)Flame
-  11)Twilio
-  12)Novu
+  10) Flame
+  11) Twilio
+  12) Novu
   
 ## Contributors:
 
