@@ -1,8 +1,8 @@
-<h1 align="center">Hack36 Template Readme</h1>
+<h1 align="center">Readme</h1>
 <p align="center">
 </p>
 
-<a href="https://hack36.com"> <img src="https://i.postimg.cc/RFFWF4vg/built-at-hack.jpg" height=24px> </a>
+
 
 
 ## Introduction:
@@ -40,12 +40,11 @@ Together, the Entech app and the Playtopia app make up the Entopia architecture,
   
 ## Contributors:
 
-Team Name: Team Decepticons
+
 
 * [Aakanksh Singh](https://github.com/aakankshsingh02)
 * [Mridul Srivastava](https://github.com/mridul2620)
 
 
 
-### Made at:
-<a href="https://hack36.com"> <img src="https://i.postimg.cc/RFFWF4vg/built-at-hack.jpg" height=24px> </a>
+
